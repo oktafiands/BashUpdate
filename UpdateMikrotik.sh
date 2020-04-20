@@ -28,7 +28,7 @@ echo ""
 echo "Add list ip $i to list."
 echo ""
 echo ""
-echo "======================="SCRIPT V 1.2 TELAH  DIJALANKAN"======================="
+echo "======================="SCRIPT V1 Successfully Running"======================="
 echo ""
 echo ""
 
